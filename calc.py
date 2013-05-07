@@ -22,3 +22,4 @@ print 'the average is', avg, 'and sumsqdiffs is', sumsqdiffs
 print 'stddev is', stddev
 
 print 'a change was made'
+print 'make an edit'
